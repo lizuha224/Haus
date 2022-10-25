@@ -12,7 +12,7 @@
 
 
 .header{
-    background-image: url(./img/photo/photoheader.png);
+    background-image: url(/img/photo/photoheader.png);
     background-repeat: no-repeat;
     background-size: 50%;
     background-color: #996B60;
@@ -527,8 +527,4 @@ letter-spacing: 1px;
 text-transform: uppercase;
 
 color: rgba(255, 255, 255, 0.6);
-}
-
-.nav_footer {
-
 }
